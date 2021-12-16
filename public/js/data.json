@@ -1,0 +1,100 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "this is first work"
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "this is first work"
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "this is first work"
+        }
+    ],
+    "Portfolio": [
+        {
+            "id": 1,
+            "image": "/images/p1.png"
+        },
+        {
+            "id": 2,
+            "image": "/images/p2.png"
+        },
+        {
+            "id": 3,
+            "image": "/images/p3.png"
+        },
+        {
+            "id": 4,
+            "image": "/images/p4.png"
+        },
+        {
+            "id": 5,
+            "image": "/images/p5.png"
+        },
+        {
+            "id": 6,
+            "image": "/images/p6.png"
+        },
+        {
+            "id": 7,
+            "image": "/images/p7.png"
+        },
+        {
+            "id": 8,
+            "image": "/images/p8.png"
+        }
+    ],
+    "Profil": [
+        {
+            "id": 1,
+            "skill": "Bootstrap",
+            "perc": "100%"
+        },
+        {
+            "id": 2,
+            "skill": "HTML",
+            "perc": "100%"
+        },
+        {
+            "id": 3,
+            "skill": "CSS",
+            "perc": "100%"
+        },
+        {
+            "id": 4,
+            "skill": "JavaScript",
+            "perc": "90%"
+        },
+        {
+            "id": 5,
+            "skill": "JQuery",
+            "perc": "90%"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook",
+            "body": "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-instagram",
+            "body": "Social Instagram"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-linkedin",
+            "body": "Social LinkedIn"
+        }
+    ]
+}
